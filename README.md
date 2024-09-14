@@ -15,7 +15,7 @@
 
 1. Клонирование репозитория 
 
-```git clone https://github.com/OkulusDev/Oxygen.git```
+```git clone https://github.com/trast2801/compare_orm```
 
 2. Переход в директорию Compare_ORM
 
